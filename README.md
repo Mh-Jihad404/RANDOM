@@ -1,9 +1,9 @@
 # RANDOM MAHADI HASAN JIHAD TOL
 
-rm -rf RANDOM
+$ rm -rf RANDOM
 
-git clone https://github.com/Mh-Jihad404/RANDOM.git
+$ git clone https://github.com/Mh-Jihad404/RANDOM.git
 
-cd RANDOM
+$ cd RANDOM
 
-python JIHAD.py
+$ python JIHAD.py
